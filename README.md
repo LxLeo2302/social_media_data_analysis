@@ -24,7 +24,9 @@ Apply graph-theoretical metrics (Degree Centrality & PageRank) to identify and p
 Visualize network changes and propose a more sustainable, user-friendly public transport framework for HCMC.
 
 **📌 Key Features**
+
 _✅ Data Sources_
+
 Metro Station Data: Manually geocoded using city planning maps and Google Maps API.
 
 Bus Stops: Extracted from OpenStreetMap using osmnx.
