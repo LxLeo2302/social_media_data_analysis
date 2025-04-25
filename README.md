@@ -8,10 +8,14 @@ This project presents a data-driven optimization model for restructuring Ho Chi 
 **📘 Project Overview**
 
 Course: Phân Tích Dữ Liệu Mạng Xã Hội (Social Network Data Analysis)
+
 Institution: Trường Công nghệ và Thiết kế – Đại học UEH
+
 Group: Nhóm 3 – Lớp Cao học Công nghệ Thiết kế Thông tin K33.2
+
 Instructor: TS. Nguyễn Thành Huy
-Date: January 2025
+
+Date: Apr 2025
 
 **🚀 Objectives**
 
